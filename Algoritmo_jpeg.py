@@ -1,16 +1,6 @@
 
 """"    En este archivo fuente se realizo la implentacion del algoritmo de  comprension de imagenes
     JPEG.
-    Para su ejecucion se hizo uso de las librerias 
-        *   numpy 
-        *   scipy 
-        *   PIL
-    Para instalar las librerias se usaron los comandos
-        python -m pip install numpy scipy matplotlib
-    
-    El comando  anterior  realiza la instalacion  de numpy, matplotlib y scipy
-    Para la instalacion de PIL
-        pip install Pillow
 """
 
 
